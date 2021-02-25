@@ -1,1 +1,1 @@
-7z a source.zip *
+7z a source.zip GoogleHashCode2021/*.cs
