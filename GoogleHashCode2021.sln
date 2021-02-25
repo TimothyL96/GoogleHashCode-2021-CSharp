@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleHashCode2021", "GoogleHashCode2021\GoogleHashCode2021.csproj", "{27FEC04C-39BA-4B1A-B5E2-5725D89C7C94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleHashCode2021", "GoogleHashCode2021\GoogleHashCode2021.csproj", "{6AB81143-1B59-4A39-947D-68033350372B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{27FEC04C-39BA-4B1A-B5E2-5725D89C7C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27FEC04C-39BA-4B1A-B5E2-5725D89C7C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27FEC04C-39BA-4B1A-B5E2-5725D89C7C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27FEC04C-39BA-4B1A-B5E2-5725D89C7C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB81143-1B59-4A39-947D-68033350372B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB81143-1B59-4A39-947D-68033350372B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB81143-1B59-4A39-947D-68033350372B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB81143-1B59-4A39-947D-68033350372B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {87BE8F9D-932A-4730-A920-A66A7B4199BE}
+		SolutionGuid = {8624231D-3AC1-40B6-9183-636182A42A34}
 	EndGlobalSection
 EndGlobal
