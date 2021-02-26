@@ -12,17 +12,10 @@ namespace GoogleHashCode2021
         {
             StartProblem("a");
             StartProblem("b");
-        }
-
-        static void StartProblem(string problem)
-        {
-            Console.WriteLine($"Problem: {problem}");
-
-            Problem p = new Problem(problem);
-
-            var results = OneForAll(p);
-
-            p.WriteToFile(results);
+            StartProblem("c");
+            StartProblem("d");
+            StartProblem("e");
+            StartProblem("f");
         }
 
         static List<Schedule> OneEach(Problem p)
@@ -75,6 +68,27 @@ namespace GoogleHashCode2021
             }
 
             return schedules;
+        }
+
+        static List<Schedule> TrafficFrequencySchedule(Problem p)
+        {
+            var schedules = new List<Schedule>();
+            
+            // Simulate the problem's period 1 by 1 and move the cars
+
+
+            return schedules;
+        }
+
+        static void StartProblem(string problem)
+        {
+            Console.WriteLine($"Problem: {problem}");
+
+            Problem p = new Problem(problem);
+
+            var results = OneEach(p);
+
+            p.WriteToFile(results);
         }
 
         static void Linear()
